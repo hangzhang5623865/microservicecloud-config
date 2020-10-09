@@ -12,3 +12,4 @@
   profiles: test #开发环境
   application: 
    name: microservicecloud-config-atguigu-test
+   
